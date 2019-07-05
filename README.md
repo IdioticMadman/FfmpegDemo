@@ -1,0 +1,1 @@
+参考这个库编译出来的`https://github.com/ejoker88/FFmpeg-3.4-Android`
